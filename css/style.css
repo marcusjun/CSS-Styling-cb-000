@@ -53,12 +53,7 @@ figcaption {
 
 /* Psuedo class selector */
 
-#details
-
-
-
-
-
-
-
-
+#details a:link {
+  color:black;
+  text-decoration: none;
+}

@@ -38,7 +38,7 @@ figcaption {
 /* ID selector (apply to one unique element per page) */
 
 #logo { /* select element with ID = "logo" */
-  background: aqua; 
+  background: aqua;
 }
 
 /* Descendent selector */
@@ -47,6 +47,6 @@ figcaption {
   font-family: "Clicker Script", cursive;
 }
 
-
-
-
+#logo h2 {
+  font-family: "Elise Swash Caps", cursive;
+}
